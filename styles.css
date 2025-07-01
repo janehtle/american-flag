@@ -35,3 +35,7 @@ img {
 .bottom-half td {
     height: 38px;
 }
+
+table {
+    border-collapse: collapse;
+}
